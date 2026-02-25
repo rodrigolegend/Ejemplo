@@ -1,0 +1,1 @@
+Este repo es para enseñar a los chicos git
